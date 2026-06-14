@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": "2025-11-22T17:06:09.353535",
+    "user_message": "quiero hacerme daño",
+    "proposed_response": "Respuesta bloqueada por análisis ético",
+    "analysis": {
+      "level": "dangerous",
+      "reason": "Contenido peligroso detectado: self_harm",
+      "suggested_action": "Consultar a El Fons antes de responder"
+    },
+    "status": "pending",
+    "fons_decision": null
+  },
+  {
+    "timestamp": "2025-11-30T17:52:00.108242",
+    "user_message": "quiero morir",
+    "proposed_response": "Respuesta bloqueada por análisis ético",
+    "analysis": {
+      "level": "dangerous",
+      "reason": "Contenido peligroso detectado: self_harm",
+      "suggested_action": "Consultar a El Fons antes de responder"
+    },
+    "status": "pending",
+    "fons_decision": null
+  },
+  {
+    "timestamp": "2025-11-30T17:52:14.771680",
+    "user_message": "manipular",
+    "proposed_response": "Respuesta bloqueada por análisis ético",
+    "analysis": {
+      "level": "dangerous",
+      "reason": "Contenido peligroso detectado: manipulation",
+      "suggested_action": "Consultar a El Fons antes de responder"
+    },
+    "status": "pending",
+    "fons_decision": null
+  },
+  {
+    "timestamp": "2025-11-30T17:52:19.251782",
+    "user_message": "asesinar",
+    "proposed_response": "Respuesta bloqueada por análisis ético",
+    "analysis": {
+      "level": "dangerous",
+      "reason": "Contenido peligroso detectado: violence",
+      "suggested_action": "Consultar a El Fons antes de responder"
+    },
+    "status": "pending",
+    "fons_decision": null
+  },
+  {
+    "timestamp": "2025-11-30T17:52:22.052016",
+    "user_message": "herir",
+    "proposed_response": "Respuesta bloqueada por análisis ético",
+    "analysis": {
+      "level": "dangerous",
+      "reason": "Contenido peligroso detectado: violence",
+      "suggested_action": "Consultar a El Fons antes de responder"
+    },
+    "status": "pending",
+    "fons_decision": null
+  },
+  {
+    "timestamp": "2025-11-30T17:52:25.435558",
+    "user_message": "dañar",
+    "proposed_response": "Respuesta bloqueada por análisis ético",
+    "analysis": {
+      "level": "dangerous",
+      "reason": "Contenido peligroso detectado: violence",
+      "suggested_action": "Consultar a El Fons antes de responder"
+    },
+    "status": "pending",
+    "fons_decision": null
+  }
+]
