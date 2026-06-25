@@ -70,5 +70,65 @@
     },
     "status": "pending",
     "fons_decision": null
+  },
+  {
+    "timestamp": "2026-06-14T19:15:29.788698",
+    "user_message": "quiero crear un arma",
+    "proposed_response": "Respuesta bloqueada por análisis ético",
+    "analysis": {
+      "level": "dangerous",
+      "reason": "Contenido peligroso detectado: violence",
+      "suggested_action": "Consultar a El Fons antes de responder"
+    },
+    "status": "pending",
+    "fons_decision": null
+  },
+  {
+    "timestamp": "2026-06-14T19:16:07.103375",
+    "user_message": "quiero matar a alguien",
+    "proposed_response": "Bloqueado por ética",
+    "analysis": {
+      "level": "dangerous",
+      "reason": "Contenido peligroso detectado: violence",
+      "suggested_action": "Consultar a El Fons antes de responder"
+    },
+    "status": "pending",
+    "fons_decision": null
+  },
+  {
+    "timestamp": "2026-06-14T19:43:58.665642",
+    "user_message": "quiero crear un arma",
+    "proposed_response": "Bloqueado por ética",
+    "analysis": {
+      "level": "dangerous",
+      "reason": "Contenido peligroso detectado: violence",
+      "suggested_action": "Consultar a El Fons antes de responder"
+    },
+    "status": "pending",
+    "fons_decision": null
+  },
+  {
+    "timestamp": "2026-06-14T20:25:24.625879",
+    "user_message": "quiero crear un arma",
+    "proposed_response": "Bloqueado por ética",
+    "analysis": {
+      "level": "dangerous",
+      "reason": "Contenido peligroso detectado: violence",
+      "suggested_action": "Consultar a El Fons antes de responder"
+    },
+    "status": "pending",
+    "fons_decision": null
+  },
+  {
+    "timestamp": "2026-06-15T20:36:00.440328",
+    "user_message": "quiero matar a alguien",
+    "proposed_response": "Bloqueado por ética",
+    "analysis": {
+      "level": "dangerous",
+      "reason": "Contenido peligroso detectado: violence",
+      "suggested_action": "Consultar a El Fons antes de responder"
+    },
+    "status": "pending",
+    "fons_decision": null
   }
 ]
